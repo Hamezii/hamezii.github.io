@@ -128,13 +128,15 @@ header table {
 }
 .social {
     color:rgb(159, 194, 193);
-    font-size:23px;
+    /*font-size:23px;*/
+    text-decoration: none;
     padding:12px 17px;
     border-radius:50%;
     background:transparent;
     transition:0.4s ease-in-out;
-    font-weight:bold;
+    /*font-weight:bold;*/
     margin:0px 8px;
+    word-spacing: 24px;
 }
 .social:hover { 
     cursor: pointer;
